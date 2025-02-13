@@ -1,2 +1,2 @@
 # example_01
-Ahoj svete!
+Hello world!
